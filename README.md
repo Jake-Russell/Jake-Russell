@@ -11,9 +11,9 @@
 
 - 🔍 Explore some of my photography work at **[jakerussell.photography](https://jakerussell.photography/)**
 
-![Jake-Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jake-Russell)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-Russell&layout=compact)
+
+![Jake-Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jake-Russell)
 
 <!--
 **Jake-Russell/Jake-Russell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
