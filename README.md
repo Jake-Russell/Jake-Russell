@@ -7,7 +7,7 @@
 
 - 🎓 AWS Cloud Certified
 
-- 📸 I'm also a keen photographer, and enjoy photographing anything from cars to the stars
+- 📸 I'm a keen photographer, and enjoy photographing anything from cars to the stars
 
 - 🔍 Explore some of my photography work at **[jakerussell.photography](https://jakerussell.photography/)**
 
