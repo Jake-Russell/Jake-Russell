@@ -1,9 +1,12 @@
 <h1 align="center">Hey, I'm Jake 👋</h1>
 <h3 align="center">I'm a final year Computer Science and Artificial Intelligence student at Loughborough University</h3>
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://komarev.com/ghpvc/?username=Jake-Russell">
 
-<br>
+<!-- <img style="display: block; margin-left: auto; margin-right: auto;" src="https://komarev.com/ghpvc/?username=Jake-Russell"> -->
+
+<div align="center">
+  <img class="img" src="https://komarev.com/ghpvc/?username=Jake-Russell">
+</div>
 
 - ✏️ I've recently been learning to use Angular, but also have experience in all major front-end languages, Java, Python, PHP, Laravel, Terraform, C++, Haskell and Swift
 
@@ -15,15 +18,9 @@
 
 <br>
 
-<div class="row" style="display: flex;" align="center">
-  <div class="column" style="flex:50%">
-    <h2>GitHub Languages</h2>
-    <img style="height: auto; width: 77%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-Russell&theme=radical&langs_count=8&layout=compact&hide_border=true" />
-  </div>
-    <div class="column" style="flex:50%">
-    <h2>GitHub Stats</h2>
-    <img style="height: auto; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Jake-Russell&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
-  </div>
+<div style="display: flex; flex-direction: row;" align="center">
+  <img class="img" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-Russell&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Jake-Russell&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
 </div>
 
 <br>
