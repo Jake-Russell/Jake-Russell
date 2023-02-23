@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Jake 👋</h1>
 <h3 align="center">I'm a final year Computer Science and Artificial Intelligence student at Loughborough University</h3>
 
-
-<!-- <img style="display: block; margin-left: auto; margin-right: auto;" src="https://komarev.com/ghpvc/?username=Jake-Russell"> -->
-
 <div align="center">
   <img class="img" src="https://komarev.com/ghpvc/?username=Jake-Russell">
 </div>
