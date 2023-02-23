@@ -19,7 +19,7 @@
 <br>
 
 <div style="display: flex; flex-direction: row;" align="center">
-  <img class="img" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-Russell&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+  <img class="img" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jake-Russell&theme=radical&langs_count=8&layout=compact&hide_border=true" />
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=Jake-Russell&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
 </div>
 
